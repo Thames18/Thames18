@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Mustafa Al-Salem 👋</h1>
+<h1 align="center">Hi, I'm Mustafa Al-Salem </h1>
 
 <h3 align="center">Data Engineer & QA Engineer | Building cloud data pipelines and production-ready ML/AI systems</h3>
 
