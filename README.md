@@ -13,7 +13,7 @@
 
 ### About Me
 
-I'm an engineer with 3+ years of experience building and validating reliable software systems — quality engineering, Java automation, API testing, and system-level validation. I've since expanded into **data engineering and machine learning**, working across the full pipeline: data ingestion, preprocessing, model training/evaluation, and deployment.
+I'm an engineer with 3+ years of experience building and validating reliable software systems quality engineering, Java automation, API testing, and system-level validation. I've since expanded into **data engineering and machine learning**, working across the full pipeline: data ingestion, preprocessing, model training/evaluation, and deployment.
 
 I'm especially interested in **production-ready ML and AI systems** that pair scalable data pipelines with well-measured model performance particularly in cloud and healthcare contexts.
 
