@@ -15,9 +15,9 @@
 
 I'm an engineer with 3+ years of experience building and validating reliable software systems — quality engineering, Java automation, API testing, and system-level validation. I've since expanded into **data engineering and machine learning**, working across the full pipeline: data ingestion, preprocessing, model training/evaluation, and deployment.
 
-I'm especially interested in **production-ready ML and AI systems** that pair scalable data pipelines with well-measured model performance — particularly in cloud and healthcare contexts.
+I'm especially interested in **production-ready ML and AI systems** that pair scalable data pipelines with well-measured model performance particularly in cloud and healthcare contexts.
 
--  Currently building **[ClinicalTriage AI](https://github.com/Thames18/Clinical-Triage)** — an end-to-end AI clinical triage platform
+-  Currently building **[ClinicalTriage AI](https://github.com/Thames18/Clinical-Triage)** an end-to-end AI clinical triage platform
 -  Deepening my skills in async processing, distributed systems, and cloud deployment (Celery, Redis, EC2, CI/CD)
 -  Previously: Quality Engineer @ Equifax · Data Engineer @ AQ Premier Corporation
 -  Portfolio: [mustafaalsalem](http://mustafalsalem.com/)
