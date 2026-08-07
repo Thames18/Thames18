@@ -24,10 +24,6 @@ I'm especially interested in **production-ready ML and AI systems** that pair sc
 
 ---
 
----
-
----
-
 ### Tech Stack
 
 <table>
@@ -115,19 +111,6 @@ PyTorch RNN pipeline for ICU mortality prediction using time-series vitals, with
 
 ### GitHub Stats
 
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Thames18&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thames18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
 
 <p align="center">
   <img
