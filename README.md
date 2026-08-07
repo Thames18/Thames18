@@ -81,13 +81,16 @@ PyTorch RNN pipeline for ICU mortality prediction using time-series vitals, with
 
 ### GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thames18&show_icons=true&theme=default&hide_border=true" alt="Mustafa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thames18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thames18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thames18&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=Thames18&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
+
 
 ---
 
